@@ -67,7 +67,7 @@ Sent 1 packets.
 
 You are free to use this code to stress your own hardware or for academic reasons, but please to not shot down any production system!
 
-If you use the code in any way, please cite our DIMVA 2019 **[paper](paper/Mehner2019_No Need to Marry to Change Your Name! Attacking Profinet IO Automation Networks Using DCP.pdf). Here is the bibtex:
+If you use the code in any way, please cite our DIMVA 2019 **[paper](paper/Mehner2019_No_Need_to_Marry_to_Change_Your_Name_Attacking_Profinet_IO_Automation_Networks_Using_DCP.pdf)**. Here is the bibtex:
 
 Bibtex Entry:
 
